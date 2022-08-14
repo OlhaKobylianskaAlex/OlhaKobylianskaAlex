@@ -20,6 +20,9 @@
 ![Gulp](https://img.shields.io/badge/-gulp-000000?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-webpack-000000?style=for-the-badge&logo=webpack)
 
+![Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop)
+![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
+
 ![Git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-gitlab-000000?style=for-the-badge&logo=gitlab)
