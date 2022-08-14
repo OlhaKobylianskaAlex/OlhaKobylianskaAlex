@@ -27,4 +27,6 @@
 ![Heroku](https://img.shields.io/badge/-heroku-000000?style=for-the-badge&logo=heroku)
 
 
-Follow me
+## Follow me
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/olha-kobylianska-0482a8237/)
