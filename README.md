@@ -1,4 +1,4 @@
-![Header](https://github.com/OlhaKobylianskaAlex/OlhaKobylianskaAlex/blob/master/assets/Frame%201.png)
+![Header](https://github.com/OlhaKobylianskaAlex/OlhaKobylianskaAlex/blob/master/assets/bg.png)
 
 <hr>
 
