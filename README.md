@@ -1,10 +1,10 @@
 ![Header](https://github.com/OlhaKobylianskaAlex/OlhaKobylianskaAlex/blob/master/assets/Frame%201.png)
 
+<hr>
 
+## I am a Frontend developer looking for the first job in a stable IT company. Skilled in HTML, CSS, JavaScript, Typescript, Angular. Had experience of working in a team (in energy companies). I know English at the level А2-В1, and keep improving my knowledge.
 
-## I am a Frontend developer looking for the first job in a stable IT company. Skilled in HTML, CSS, JavaScript, Typescript, Angular.
-
-
+<hr>
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
@@ -29,6 +29,7 @@
 ![Firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/-heroku-000000?style=for-the-badge&logo=heroku)
 
+<hr>
 
 ## Follow me
 
