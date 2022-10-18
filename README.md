@@ -2,7 +2,7 @@
 
 <hr>
 
-## I am a Frontend developer looking for the first job in a stable IT company. Skilled in HTML, CSS, JavaScript, Typescript, Angular. Had experience of working in a team (in energy companies). I know English at the level А2-В1, and keep improving my knowledge.
+## I am a Frontend. Skilled in HTML, CSS, JavaScript, Typescript, Angular. Had experience of working in a team (in energy companies). I know English at the level В1, and keep improving my knowledge.
 
 <hr>
 
