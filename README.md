@@ -2,7 +2,7 @@
 
 <hr>
 
-## I`m an enthusiastic and detail-oriented Trainee/Junior Front-End Developer seeking an entry-level position with Company to use my skills in coding. I`m sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular will render me a valuable addition to your web development team.
+## I am an enthusiastic and detail-oriented Trainee/Junior Front-End Developer seeking an entry-level position with Company to use my skills in coding. I am sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular will render me a valuable addition to your web development team.
 
 <hr>
 
