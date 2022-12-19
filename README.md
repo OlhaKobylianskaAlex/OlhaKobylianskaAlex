@@ -2,7 +2,7 @@
 
 <hr>
 
-## I am a Frontend developer. Skilled in HTML, CSS, JavaScript, Typescript, Angular. Had experience of working in a team (in energy companies). I know English at the level В1, and keep improving my knowledge.
+## I`m an enthusiastic and detail-oriented Trainee/Junior Front-End Developer seeking an entry-level position with Company to use my skills in coding. I`m sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular will render me a valuable addition to your web development team.
 
 <hr>
 
