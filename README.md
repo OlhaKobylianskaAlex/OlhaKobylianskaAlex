@@ -2,7 +2,8 @@
 
 <hr>
 
-## I`m an enthusiastic, detail-oriented and highly self-organized Junior Front-End Developer seeking an opportunity to cooperate with the Company to use my skills in coding. I`m sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular2+ and 1+ years of experience will render me a valuable addition to your web development team.
+## I`m an enthusiastic, detail-oriented and highly self-organized Junior Front-End Developer seeking an opportunity to cooperate with the Company to use my skills in coding. 
+## I`m sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular2+ and 1+ years of experience will render me a valuable addition to your web development team.
 
 <hr>
 
