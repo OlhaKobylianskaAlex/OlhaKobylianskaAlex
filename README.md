@@ -11,8 +11,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/-scss-000000?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![PHP](https://img.shields.io/badge/-scss-000000?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/-scss-000000?style=for-the-badge&logo=sql)
+![PHP](https://img.shields.io/badge/-php-000000?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sql)
 
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
