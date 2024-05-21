@@ -20,7 +20,7 @@
 ![AngularMaterial](https://img.shields.io/badge/Angular-Material-000000?style=for-the-badge&logo=angular)
 ![RxJS](https://img.shields.io/badge/-rxjs-000000?style=for-the-badge&logo=rxjs)
 ![NgRx](https://img.shields.io/badge/-ngrx-000000?style=for-the-badge&logo=ngrx)
-![VueJS](https://img.shields.io/badge/-vuejs-000000?style=for-the-badge&logo=vuejs)
+![Vue.js](https://img.shields.io/badge/vuejs-000000?style=for-the-badge&logo=vue-dot-js)
 
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![Gulp](https://img.shields.io/badge/-gulp-000000?style=for-the-badge&logo=gulp)
