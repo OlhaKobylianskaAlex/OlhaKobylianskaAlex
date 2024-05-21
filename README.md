@@ -21,9 +21,11 @@
 ![RxJS](https://img.shields.io/badge/-rxjs-000000?style=for-the-badge&logo=rxjs)
 ![NgRx](https://img.shields.io/badge/-ngrx-000000?style=for-the-badge&logo=ngrx)
 
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![Gulp](https://img.shields.io/badge/-gulp-000000?style=for-the-badge&logo=gulp)
 ![Webpack](https://img.shields.io/badge/-webpack-000000?style=for-the-badge&logo=webpack)
 
+![Webflow](https://img.shields.io/badge/-webflow-000000?style=for-the-badge&logo=webflow)
 ![Photoshop](https://img.shields.io/badge/-photoshop-000000?style=for-the-badge&logo=adobephotoshop)
 ![Figma](https://img.shields.io/badge/-figma-000000?style=for-the-badge&logo=figma)
 
@@ -32,6 +34,10 @@
 ![GitLab](https://img.shields.io/badge/-gitlab-000000?style=for-the-badge&logo=gitlab)
 ![Firebase](https://img.shields.io/badge/-firebase-000000?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/-heroku-000000?style=for-the-badge&logo=heroku)
+
+![Trello](https://img.shields.io/badge/-trello-000000?style=for-the-badge&logo=trello)
+![Jira](https://img.shields.io/badge/-jira-000000?style=for-the-badge&logo=jira)
+
 
 <hr>
 
