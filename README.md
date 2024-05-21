@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/-angular-000000?style=for-the-badge&logo=angular)
+![AngularMaterial](https://img.shields.io/badge/-angular-material-000000?style=for-the-badge&logo=angular-material)
 ![RxJS](https://img.shields.io/badge/-rxjs-000000?style=for-the-badge&logo=rxjs)
 ![NgRx](https://img.shields.io/badge/-ngrx-000000?style=for-the-badge&logo=ngrx)
 
