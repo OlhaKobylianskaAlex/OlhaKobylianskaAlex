@@ -10,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
 ![SCSS](https://img.shields.io/badge/-scss-000000?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jquery-000000?style=for-the-badge&logo=jquery)
 ![PHP](https://img.shields.io/badge/-php-000000?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sql)
 
