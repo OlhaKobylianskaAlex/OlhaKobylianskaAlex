@@ -1,9 +1,8 @@
-![Header](https://github.com/OlhaKobylianskaAlex/OlhaKobylianskaAlex/blob/master/assets/bg.png)
+![Header](https://github.com/OlhaKobylianskaAlex/information/blob/master/assets/bg.png)
 
 <hr>
 
-## I`m an enthusiastic, detail-oriented and highly self-organized Junior Front-End Developer seeking an opportunity to cooperate with the Company to use my skills in coding. 
-## I`m sure that my technical knowledge of HTML, CSS, JavaScript/TypeScript, Angular2+ and 1+ years of experience will render me a valuable addition to your web development team.
+## I'm a highly organized and detail-oriented Front-End Developer. I want to be part of a team where everyone is involved in developing and improving the product. In my most recent role as a Front End Developer, I fixed bugs and created new features using Angular2+ or native JS (+ jQuery), PHP, SQL. I have practical experience with CI/CD settings, chatbot development. In addition, I have knowledge of UI/UX design, and I use this in my work. I worked both in a team and independently with the support of the chief with new tasks for me. I always put maximum effort into my work. I'm confident that my technical knowledge, over 1.5 years of professional experience (plus 1 year of training with a mentor and development of pet projects), and logical analysis ability will make me a valuable addition to your web development team.
 
 <hr>
 
